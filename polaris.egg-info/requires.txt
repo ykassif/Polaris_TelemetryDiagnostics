@@ -1,0 +1,8 @@
+kaitaistruct
+glouton
+click
+tqdm
+pandas
+scikit-learn
+xgboost
+satnogsdecoders

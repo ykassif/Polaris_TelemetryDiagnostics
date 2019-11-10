@@ -1,0 +1,16 @@
+Metadata-Version: 1.2
+Name: polaris
+Version: 0+untagged.179.gc571eaf
+Summary: Polaris
+Home-page: https://gitlab.com/crespum/polaris
+Author: 
+Author-email: 
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: telemetry, satellite, machine learning
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: LGPL
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >= 3
